@@ -1,0 +1,36 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.11.2021 15:36:04
+
+newmtl lamp_Mat
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka lamp_Mat_Diffuse.png
+	map_Kd lamp_Mat_Diffuse.png
+	map_Ks lamp_Mat_Specular.png
+	map_bump lamp_Mat_Normal.png
+	bump lamp_Mat_Normal.png
+
+newmtl component_Mat
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka component_Mat_Diffuse.png
+	map_Kd component_Mat_Diffuse.png
+	map_Ks component_Mat_Specular.png
+	map_bump component_Mat_Normal.png
+	bump component_Mat_Normal.png
