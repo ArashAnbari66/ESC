@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: ArashAnbari
-  productName: ArashVRmainPro
+  productName: ESC
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -193,8 +193,6 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: -8390252247152644921, guid: abd5bb45431a4cc40b39347b0e9c4a0e, type: 2}
-  - {fileID: 11400000, guid: 38a4690a0a0d47e41b24465d233df186, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -214,7 +212,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.ArashAnbari.ArashVRmainPro
+    Android: com.ArashAnbari.ESC
     Standalone: com.DefaultCompany.URP-Test
   buildNumber:
     Standalone: 0
